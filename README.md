@@ -6,6 +6,7 @@
 - this step2 prioritized for project that have probability to have branch
   ex = main (default), admin, customer
 - if there's a problem upon push, please consider to ask gpt
+- consider to reset if u stuck
 
 
 ## Project Setup
