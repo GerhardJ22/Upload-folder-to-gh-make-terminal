@@ -2,7 +2,7 @@
 ## Note
 - File/folder size limit is 100 MB, with a warning at 50 MB. Ensure your repository remains within these limits.
 - Change gojira-tuners to your project/REPO
-- Better. nah, must new repository, clean and legit
+- Better. nah, must create new repository, clean and legit
 - this step2 prioritized for project that have probability to have branch
   ex = main (default), admin, customer
 - if there's a problem upon push, please consider to ask gpt
