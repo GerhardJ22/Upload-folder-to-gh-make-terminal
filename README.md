@@ -8,7 +8,7 @@
   ex = main (default), admin, customer
 - if there's a problem upon push, please consider to ask gpt
 - consider to reset if u stuck
-- use terminal
+- use terminal!!!
 
 
 ## Project Setup
@@ -38,7 +38,7 @@ cd Gojira-Tuners
    ```bash
    cp -r /path/to/your/local/main-folder .
    # For example, if the folder is on your desktop:
-   cp -r ~/Desktop/main-folder .
+   cp -r "C:\Users\Kmsmr\OneDrive\Desktop\main"
    ```
    
 3. Stage and commit the changes:
