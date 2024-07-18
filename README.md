@@ -126,7 +126,4 @@ git push -u origin customer
 
 Replace `/path/to/your/local/` with the actual path to your folders on your local device. For example, if your folders are on your desktop, you might use `~/Desktop/main-folder`, `~/Desktop/admin-folder`, and `~/Desktop/customer-folder`.
 
-GLHF (Good Luck Have Fun)!
-```
-
-This `README.md` file now provides clear instructions for setting up and pushing folders to different branches of your GitHub repository. Adjust the repository name and paths as necessary for your specific project setup.
+GLHF!
