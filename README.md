@@ -8,6 +8,7 @@
   ex = main (default), admin, customer
 - if there's a problem upon push, please consider to ask gpt
 - consider to reset if u stuck
+- use terminal
 
 
 ## Project Setup
