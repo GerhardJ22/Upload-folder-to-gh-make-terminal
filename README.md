@@ -1,7 +1,3 @@
-Certainly! Here's the content converted into a `README.md` file suitable for a GitHub repository:
-
-```markdown
-# README
 
 ## Note
 File/folder size limit is 100 MB, with a warning at 50 MB. Ensure your repository remains within these limits.
