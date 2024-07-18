@@ -1,6 +1,11 @@
 
 ## Note
-File/folder size limit is 100 MB, with a warning at 50 MB. Ensure your repository remains within these limits.
+- File/folder size limit is 100 MB, with a warning at 50 MB. Ensure your repository remains within these limits.
+- Change gojira-tuners to your project
+- Better. nah, recommended to create new repository, clean and legit
+- this step2 prioritized for project that have probability to have branch
+  ex = main (default), admin, customer
+
 
 ## Project Setup
 
