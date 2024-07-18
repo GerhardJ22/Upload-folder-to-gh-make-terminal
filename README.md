@@ -5,7 +5,7 @@
 - Better. nah, recommended to create new repository, clean and legit
 - this step2 prioritized for project that have probability to have branch
   ex = main (default), admin, customer
--if there's a problem upon push, please consider to ask gpt
+- if there's a problem upon push, please consider to ask gpt
 
 
 ## Project Setup
