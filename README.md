@@ -26,6 +26,7 @@ First, clone the empty repository to your local machine:
 ```bash
 git clone https://github.com/user/urepo.git
 cd urepo
+(change urepo to your actual repo name)
 ```
 
 ### Step 2: Upload Folder to `main` Branch
